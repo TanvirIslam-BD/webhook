@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "environments.production.dataSource.properties.jmxEnabled",
+      "type": "java.lang.String",
+      "description": "Description for environments.production.dataSource.properties.jmxEnabled."
+  }
+] }
